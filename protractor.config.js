@@ -4,5 +4,5 @@ exports.config = {
     capabilities: {
         browserName: 'chrome',
     },
-    specs: ['test-lib/**.js']
+    specs: ['test-lib/new-spec.js']
 };
